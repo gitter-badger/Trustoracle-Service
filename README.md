@@ -5,7 +5,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/webankblockchain/trustoracle-service/badge)](https://www.codefactor.io/repository/github/webankblockchain/trustoracle-service)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f8d7f6ba47f404d94f786dc505c9797)](https://www.codacy.com/gh/WeBankBlockchain/Trustoracle-Service/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WeBankBlockchain/Trustoracle-Service&amp;utm_campaign=Badge_Grade)
 <br />
-[![Latest release](https://img.shields.io/github/release/WeBankBlockchain/Trustoracle-Service.svg)](https://github.com/WeBankBlockchain/Trustoracle-Service/releases/latest)
+[![Latest release](https://img.shields.io/github/release/WeBankBlockchain/Trustoracle-Service.svg)](https://github.com/WeBankBlockchain/Trustoracle-Service/releases/latest) [![Join the chat at https://gitter.im/Trustoracle-Service/community](https://badges.gitter.im/Trustoracle-Service/community.svg)](https://gitter.im/Trustoracle-Service/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![LICENSE](https://img.shields.io/github/license/WeBankBlockchain/Trustoracle-Service)
 <a href="https://github.com/WeBankBlockchain/Trustoracle-Service"><img src="https://sloc.xyz/github/WeBankBlockchain/Trustoracle-Service" /></a>
 
